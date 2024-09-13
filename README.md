@@ -27,6 +27,7 @@ This is a versatile financial asset monitoring tool built with Python's web fram
 - Add and monitor multiple financial assets at once
 - Real-time price tracking using Yahoo Finance data
 - User authentication and session management
+- Persistent storage of user-specific watchlists
 - User-friendly interface
 # How It Works
 1. Data Fetching: The application uses the `yfinance` python library to fetch real-time price data from Yahoo Finance. I've created custom API endpoints within the Flask application to fetch the data.
