@@ -1,7 +1,7 @@
 # The Real-Time Financial Assets Price Tracker
 This is a versatile financial asset monitoring tool built with Python's web framework Flask, allowing the users to track prices of various assets, including stocks and cryptocurrencies, in real time.
 ## Installation
-1. Clone the repository
+1. Clone the repository:
     ```
     git clone https://github.com/stanleytengg/PriceTracker.git
     cd PriceTracker
@@ -24,7 +24,7 @@ This is a versatile financial asset monitoring tool built with Python's web fram
    ```
 5. Open the web browser and navigate to `http://localhost:5000` (or the appropriate port if different)
 ## Features
-- Add and monitor multiple financial assets
+- Add and monitor multiple financial assets at once
 - Real-time price tracking using Yahoo Finance data
 - User authentication and session management
 - User-friendly interface
